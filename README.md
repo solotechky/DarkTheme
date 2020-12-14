@@ -7,7 +7,7 @@ A demo android studio project which implements the functionality of switching be
 <br/>
 <h3>Dependencies</h3>
 
-add the following dependency in your ```build.gradle (Module:app)``` file
+add the following dependency in your ```build.gradle(Module:app)``` file
 
 ```
 dependencies {
